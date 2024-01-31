@@ -15,7 +15,6 @@
                 }
                 if (typeof e.srcset === "string" && e.srcset.search(/http:\/\//i) !== -1) {
                     e.srcset = e.srcset.replace("http://", "https://");
-                    console.log(e)
                 }
             });
         }
