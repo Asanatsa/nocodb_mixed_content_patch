@@ -1,5 +1,5 @@
 /**
- * for fix "mixed context" bug
+ * for fix "mixed content" bug
  * @author Asanatsa
  */
 
